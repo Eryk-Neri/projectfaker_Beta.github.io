@@ -1,0 +1,29 @@
+﻿{
+	"version": 1668600064,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
+		"images/fake1-sheet0.png",
+		"images/fake3-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/fake4-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/img8-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"fake7.mp4",
+		"quiz1.mp4",
+		"fake8.mp4",
+		"videotes.mp4"
+	]
+}
